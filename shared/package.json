@@ -1,0 +1,5 @@
+// shared/package.json
+{
+  "name": "@monorepo/shared",
+  "private": true
+}
